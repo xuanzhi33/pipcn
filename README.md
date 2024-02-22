@@ -1,6 +1,7 @@
 # pipcn
 
 快速、方便的使用pip的国内镜像源安装/更新包~
+
 默认使用清华大学pip镜像：https://pypi.tuna.tsinghua.edu.cn/simple
 
 [![PyPI - Version](https://img.shields.io/pypi/v/pipcn.svg)](https://pypi.org/project/pipcn)
